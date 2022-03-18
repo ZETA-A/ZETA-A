@@ -19,11 +19,8 @@ I am a high school student developer in Korea! 🇰🇷
 ![body](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
 ![body](https://img.shields.io/badge/React-61dafb?style=flat-square&logo=React&logoColor=white)
 
-![body](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white)
-![body](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)
 ![body](https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white)
 ![body](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=SQLite&logoColor=white)
-![body](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=Swift&logoColor=white)
 ![body](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)
 
 
