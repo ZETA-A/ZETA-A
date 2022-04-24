@@ -27,9 +27,7 @@ I am a high school student developer in Korea! 🇰🇷
 ### Tools
 
 ![body](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white)
-![body](https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=Xcode&logoColor=white)
 ![body](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat-square&logo=IntelliJ%20IDEA&logoColor=white)
-![body](https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat-square&logo=Eclipse%20IDE&logoColor=white)
 
 ## 🍑 **Other** 🍑
 <a href="https://www.instagram.com/u_zeta1"><img src="https://img.shields.io/badge/@u_zeta1-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
