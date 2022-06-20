@@ -4,6 +4,7 @@
 👋 Welcome to my studio 👋
 
 I am a high school student developer in Korea! 🇰🇷
+  And FrontEnd Developer!
 
 ## 🖥 **Tech Stack** 🖥  
 
@@ -21,7 +22,6 @@ I am a high school student developer in Korea! 🇰🇷
 
 ![body](https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white)
 ![body](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=SQLite&logoColor=white)
-![body](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)
 
 
 ### Tools
