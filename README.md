@@ -3,7 +3,7 @@
 <div align="center">
 👋 Welcome to my studio 👋
 
-I am a high school student developer in Korea! 🇰🇷
+I am a high school student developer in Korea! 🇰🇷   
   And FrontEnd Developer!
 
 ## 🖥 **Tech Stack** 🖥  
