@@ -21,7 +21,6 @@ pinkB : #FF7777
       <img src="https://img.shields.io/static/v1?&label=Discord&logoColor=FFFFFF&message=%E3%80%90%CE%B6%E3%80%91%20ZETA%230303&style=flat-square&color=FF7777&labelColor=FF5D5D"/>
   </a>
 
-
   <div>
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZETA-A&theme=dracula&title_color=FF5D5D&icon_color=FF7777&text_color=FF7777&bg_color=fffefe&count_private=true&layout=compact&langs_count=6&border_radius=15" style="margin-left:30px"/>
 
@@ -63,7 +62,7 @@ pinkB : #FF7777
     <a href="https://www.github.com/" style="text-decoration:none;">
       <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white">
     </a>
-    <a href="https://www.github.com/" style="text-decoration:none;">
+    <a href="https://www.figma.com/" style="text-decoration:none;">
       <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white">
     </a>
   </div>
