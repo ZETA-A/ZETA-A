@@ -77,10 +77,10 @@ pinkB : #FF7777
 ---
 
   <a>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ZETA-A&show_icons=true&border_radius=15&title_color=FF5D5D&icon_color=FF7777&text_color=FF7777&count_private=true">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ZETA-A&show_icons=true&border_radius=15&title_color=FF5D5D&icon_color=FF7777&text_color=FF7777&count_private=true" style="width:360px">
   </a>
   <a>
-    <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=ZETA-A&border_radius=15">
+    <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=ZETA-A&border_radius=15" style="width:360px">
   </a>
 
   <!-- 
