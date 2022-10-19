@@ -1,43 +1,92 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Hello%20World!&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Zeta%27s%20Studio&descAlignY=51&descAlign=71)
+<!--
+COLOR
 
+pinkA : #FF5D5D
+pinkB : #FF7777
+ -->
 <div align="center">
-👋 Welcome to my studio 👋
+  
+  <img src="https://github.com/ZETA-A/ZETA-A/blob/main/header.png?raw=true" style="width:100vw; height:auto"/>
 
-I am a high school student developer in Korea! 🇰🇷   
-  And FrontEnd Developer!
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FZETA-A&count_bg=%23FF7777&title_bg=%23FF5D5D&title=TODAY&edge_flat=true">
+  <img src="https://img.shields.io/static/v1?label=Cherry&message=Blossom&style=flat-square&color=FF7777&labelColor=FF5D5D" alt="Star Badge"/>
 
-## 🖥 **Tech Stack** 🖥  
+  <div>
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZETA-A&theme=dracula&title_color=FF5D5D&icon_color=FF7777&text_color=FF7777&bg_color=fffefe&count_private=true&layout=compact&langs_count=6&border_radius=15" style="margin-left:30px"/>
 
-### OS
+### 🍒 Tech Stack
 
-![body](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=macOS&logoColor=white)
-![body](https://img.shields.io/badge/iOS-000000?style=flat-square&logo=iOS&logoColor=white)
+---
 
-### Language
+  <div>
+    <a href="https://www.javascript.com/" style="text-decoration: none;">
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white">
+    </a>
+    <a href="https://www.typescriptlang.org/" style="text-decoration: none;">
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white">
+    </a>
+    <a href="https://reactjs.org/" style="text-decoration: none;">
+      <img src="https://img.shields.io/badge/React-61dafb?style=flat-square&logo=React&logoColor=white">
+    </a>
+    <a href="https://expressjs.com/" style="text-decoration: none;">
+      <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white">
+    </a>
+  </div>
 
-![body](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)
-![body](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white)
-![body](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
-![body](https://img.shields.io/badge/React-61dafb?style=flat-square&logo=React&logoColor=white)
+  <div>
+    <a href="https://www.mysql.com/" style="text-decoration:none;">
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white">
+    </a>
+    <a href="https://www.sqlite.org/index.html" style="text-decoration:none;">
+      <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=SQLite&logoColor=white">
+    </a>
+    <a href="https://www.mongodb.com/" style="text-decoration:none;">
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white">
+    </a>
+  </div>
+  
+  <div>
+    <a href="https://code.visualstudio.com/" style="text-decoration:none;">
+      <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white">
+    </a>
+    <a href="https://www.github.com/" style="text-decoration:none;">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white">
+    </a>
+    <a href="https://www.github.com/" style="text-decoration:none;">
+      <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white">
+    </a>
+  </div>
+  <br />
 
-![body](https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white)
-![body](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=SQLite&logoColor=white)
+  <!-- 
+### 🍑 Project
 
+---
 
-### Tools
+  <a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ZETA-A&repo=node-mecab-ya&show_owner=true&border_radius=15">
+  </a>
+  <a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DAWNCLASS&repo=jungdawn&show_owner=true&border_radius=15">
+  </a>
+  <br />
+  -->
 
-![body](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white)
-![body](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat-square&logo=IntelliJ%20IDEA&logoColor=white)
+### 🍑 My Stats
 
-## 🍑 **Other** 🍑
-<a href="https://www.instagram.com/u_zeta1"><img src="https://img.shields.io/badge/@u_zeta1-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
-<a href="https://steamcommunity.com/id/U_Zeta/"><img src="https://img.shields.io/badge/U_ゼータ_U-000000?style=flat-square&logo=Steam&logoColor=white"/></a>
-![body](https://img.shields.io/badge/AKIRIO1204-F56C2D?style=flat-square&logo=Origin&logoColor=white)
-![body](https://img.shields.io/badge/AKIRIO7996-107C10?style=flat-square&logo=Xbox&logoColor=white)
-[![body](https://img.shields.io/badge/%E3%80%8E%CE%B6%E3%80%8F%20ZETA%230303-5865F2?style=flat-square&logo=Discord&logoColor=white)](https://discord.com/users/334654108034269186)
+---
 
+  <a>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ZETA-A&show_icons=true&border_radius=15&title_color=FF5D5D&icon_color=FF7777&text_color=FF7777&count_private=true">
+  </a>
+  <a>
+    <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=ZETA-A&border_radius=15">
+  </a>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZETA-A&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZETA-A&layout=compact&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/ZETA-A/github-readme-stats)
+  <!-- 
+  <a>
+    <img src="http://mazandi.herokuapp.com/api?handle=zeta_a&theme=warm"/>
+  </a>
+  -->
 
 </div>
