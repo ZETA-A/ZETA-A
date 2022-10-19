@@ -8,8 +8,19 @@ pinkB : #FF7777
   
   <img src="https://github.com/ZETA-A/ZETA-A/blob/main/header.png?raw=true" style="width:100vw; height:auto"/>
 
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FZETA-A&count_bg=%23FF7777&title_bg=%23FF5D5D&title=TODAY&edge_flat=true">
-  <img src="https://img.shields.io/static/v1?label=Cherry&message=Blossom&style=flat-square&color=FF7777&labelColor=FF5D5D" alt="Star Badge"/>
+  <a href="https://en.wikipedia.org/wiki/Cherry_blossom">
+    <img src="https://img.shields.io/static/v1?label=Cherry&message=Blossom&style=flat-square&color=FF7777&labelColor=FF5D5D"/>
+  </a>
+  <a href="https://github.com/ZETA-A">
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FZETA-A&count_bg=%23FF7777&title_bg=%23FF5D5D&title=Today&edge_flat=true">
+  </a>
+  <a href="https://www.instagram.com/u_zeta1/" style="text-decoration: none;">
+      <img src="https://img.shields.io/static/v1?&label=Instagram&logoColor=FFFFFF&message=@u_zeta1&style=flat-square&color=FF7777&labelColor=FF5D5D"/>
+  </a>
+  <a href="https://discord.com/users/334654108034269186" style="text-decoration: none;">
+      <img src="https://img.shields.io/static/v1?&label=Discord&logoColor=FFFFFF&message=%E3%80%90%CE%B6%E3%80%91%20ZETA%230303&style=flat-square&color=FF7777&labelColor=FF5D5D"/>
+  </a>
+
 
   <div>
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZETA-A&theme=dracula&title_color=FF5D5D&icon_color=FF7777&text_color=FF7777&bg_color=fffefe&count_private=true&layout=compact&langs_count=6&border_radius=15" style="margin-left:30px"/>
