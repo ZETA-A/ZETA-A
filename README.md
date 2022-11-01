@@ -23,7 +23,7 @@ pinkB : #FF7777
   </a>
 
   <div>
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZETA-A&theme=dracula&title_color=FF5D5D&icon_color=FF7777&text_color=FF7777&bg_color=fffefe&count_private=true&layout=compact&langs_count=6&border_radius=15" style="margin-left:30px"/>
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZETA-A&theme=dracula&title_color=FF5D5D&icon_color=FF7777&text_color=FF7777&bg_color=fffefe&count_private=true&layout=compact&langs_count=6&border_radius=15&exclude_repo=ZETA-A.github.io" style="margin-left:30px"/>
 
 ### 🍒 Tech Stack
 
